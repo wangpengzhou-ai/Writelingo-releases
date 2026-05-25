@@ -1,6 +1,6 @@
 {
   "version": "0.1.0",
   "caption": "Click to Update",
-  "packageURL": "https://wangpengzhou-ai.github.io/Writelingo-releases/releases/Writelingo-0.1.0.dmg",
-  "releaseNotesURL": "https://wangpengzhou-ai.github.io/Writelingo-releases/latest-version.json"
+  "packageURL": "https://github.com/wangpengzhou-ai/Writelingo-releases/releases/download/v0.1.0/Writelingo-0.1.0.zip",
+  "releaseNotesURL": "https://github.com/wangpengzhou-ai/Writelingo-releases/releases/tag/v0.1.0"
 }
